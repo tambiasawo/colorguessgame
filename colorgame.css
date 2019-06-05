@@ -1,0 +1,75 @@
+body{
+	background: black;
+	margin:0;
+	font-family: "Montserrat", "Avenir";
+}
+
+h1{
+	color:white;
+}
+.square{
+	
+	width:30%;
+	margin:1.66%;
+	padding-bottom: 30%; /* this makes the squares/boxes visible*/
+	float: left;
+	border-radius:15%;
+	transition: background 0.6s;
+	-webkit-transition: background 0.6s;
+	-moz-transition: background 0.6s;
+}
+.container{
+	max-width: 600px; /* sets the max width for the div containing the squares*/
+	margin: 0 auto; /*centers a div*/
+	padding-top:1.5%;
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px 0;
+	line-height: 1.1;
+	background: steelblue;
+	margin:0px;
+	font-weight: normal;
+}
+#result{
+	display: inline-block;
+	width:20%;
+}
+
+#whitespace{
+	background: white;
+	padding-bottom: 0%;
+	text-align: center;
+}
+
+#left{
+	float: left;
+	text-decoration: none;
+}
+.selected{
+	background: steelblue;
+	color: white;
+	
+}
+#colorDisp{
+	font-size: 200%;
+}
+
+button{
+	border:none;
+	background: none;
+	height:100%;
+	text-transform: uppercase;
+	color:steelblue;
+	letter-spacing: 1px;
+	font-size:inherit;
+	font-weight: bold;
+	padding: 2px 0;
+	transition: all 2ms;
+}
+button:hover{
+	background: steelblue;
+	color:white;
+}
