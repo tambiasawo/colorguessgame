@@ -10,6 +10,7 @@ In Hard mode, you have 6 options
 TakeAways:
 - Knowledge of color codes
 
-Download and Play or click on the PNG file to view sample output
+Download and Play or click on the link to view sample output
+https://www.dropbox.com/s/vsa9vb5v83yr48h/colorgame_easy.PNG?dl=0
 
 Goodluck!
