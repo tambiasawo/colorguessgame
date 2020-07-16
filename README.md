@@ -10,4 +10,6 @@ In Hard mode, you have 6 options
 TakeAways:
 - Knowledge of color codes
 
+Download and Play or click on the PNG file to view sample output
+
 Goodluck!
