@@ -10,7 +10,7 @@ In Hard mode, you have 6 options
 TakeAways:
 - Knowledge of color codes
 
-Download and Play or click on the link to view sample output
+Download and play or click the link to view full demo
 https://drive.google.com/file/d/1FlCje-CwtciaulbxpIqZuIdQSsj5WgGb/view?usp=sharing
 
 Goodluck!
