@@ -11,6 +11,5 @@ TakeAways:
 - Knowledge of color codes
 
 Download and Play or click on the link to view sample output
-https://www.dropbox.com/s/fxvdgknf28ln7uv/colorgame_hard.PNG?dl=0
-
+https://drive.google.com/file/d/1FlCje-CwtciaulbxpIqZuIdQSsj5WgGb/view?usp=sharing
 Goodluck!
