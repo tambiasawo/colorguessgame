@@ -1,5 +1,5 @@
 body{
-	background: grey;
+	background: black;
 	margin:0;
 	font-family: "Montserrat", "Avenir";
 }
@@ -19,8 +19,6 @@ h1{
 	-moz-transition: background 0.6s;
 }
 .container{
-	width:550px;
-	margin: 0 auto;
 	max-width: 600px; /* sets the max width for the div containing the squares*/
 	margin: 0 auto; /*centers a div*/
 	padding-top:1.5%;
