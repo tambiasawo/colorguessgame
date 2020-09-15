@@ -1,5 +1,5 @@
 body{
-	background: black;
+	background: grey;
 	margin:0;
 	font-family: "Montserrat", "Avenir";
 }
@@ -24,6 +24,7 @@ h1{
 	max-width: 600px; /* sets the max width for the div containing the squares*/
 	margin: 0 auto; /*centers a div*/
 	padding-top:1.5%;
+	background: white;
 }
 
 h1{
